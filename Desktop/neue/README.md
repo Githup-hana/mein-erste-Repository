@@ -1,2 +1,2 @@
 # mein-erste-RepositoryProjekt
-### neue 
+### neue Projekt
